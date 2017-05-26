@@ -12,3 +12,4 @@
 * [Comparateur de prix de PCB (ZenPCB) version bétâ](http://zenpcb.io)
 * [La guilde des doctorants](http://guilde.info)
 * [Minimalist OS](https://github.com/pierre-x/minimalist_os)
+* [Life Planner](https://github.com/pierre-x/life-planner)
